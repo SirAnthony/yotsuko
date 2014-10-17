@@ -1,6 +1,6 @@
 {
   "name": "yotsuko",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/SirAnthony/yotsuko",
   "authors": [
     "Sir Anthony <anthony@adsorbtion.org>"
@@ -12,6 +12,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "data",
     "node_modules",
     "bower_components",
     "test",

@@ -1,6 +1,6 @@
 {
   "name": "yotsuko",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "sprites",
   "main": "yotsuko.js",
   "scripts": {
@@ -19,10 +19,16 @@
   "directories": {
     "test": "test"
   },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bower-task": "^0.4.0",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-uglify": "^0.6.0"
-  }
+  },
+  "keywords": [
+    "ocr",
+    "rectangles",
+    "sprite box"
+  ]
 }
