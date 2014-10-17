@@ -12,6 +12,6 @@ var data = yotsuko.process(image);
 canvas_draw(data); // Implementation in tests
 ```
 
-Original image on the right and rebuilt on the left;
+Original image on the right and rebuilt on the left:
 
 ![Example](https://raw.githubusercontent.com/SirAnthony/yotsuko/master/data/readme.jpg)
